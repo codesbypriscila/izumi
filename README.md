@@ -1,4 +1,4 @@
-# IZUMI · 泉
+# IZUMI 
 
 **Landing page premium para un restaurante omakase ficticio en Ginza, Tokio.**
 
