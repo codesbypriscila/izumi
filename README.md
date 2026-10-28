@@ -1,13 +1,8 @@
-<div align="center">
-
-<img src="design/logo/izumi-logo-wordmark.png" alt="IZUMI 泉 — Ginza · Tokyo" width="180" />
-
 # IZUMI · 泉
 
 **Landing page premium para un restaurante omakase ficticio en Ginza, Tokio.**
 
-Estética cinematográfica en negro, rojo japonés y blanco, con animaciones coreografiadas,<br />
-un menú interactivo en forma de libro con *page flip* 3D y sitio bilingüe EN / ES.
+Estética cinematográfica en negro, rojo japonés y blanco, con animaciones coreografiadas, un menú interactivo en forma de libro con *page flip* 3D y sitio bilingüe EN / ES.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19-149ECA?style=flat-square&logo=react&logoColor=white)](https://react.dev)
@@ -15,14 +10,6 @@ un menú interactivo en forma de libro con *page flip* 3D y sitio bilingüe EN /
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Motion](https://img.shields.io/badge/Motion-animations-FF0055?style=flat-square&logo=framer&logoColor=white)](https://motion.dev)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
-
-</div>
-
-<br />
-
-<p align="center">
-  <img src="src/app/opengraph-image.jpg" alt="Hero de IZUMI: el wordmark en rojo con un nigiri sostenido por palillos sobre un plato blanco" width="100%" />
-</p>
 
 ## Contenido
 
