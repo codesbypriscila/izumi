@@ -185,7 +185,8 @@ export const es: Dictionary = {
       guests: "comensales",
       confirmation: "Te enviamos la confirmación a {email}.",
       reference: "Ref.",
-      another: "Hacer otra reserva",
+      kicker: "Reserva confirmada",
+      close: "Cerrar",
     },
   },
   footer: {

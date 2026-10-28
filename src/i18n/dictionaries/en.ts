@@ -183,7 +183,8 @@ export const en = {
       guests: "guests",
       confirmation: "A confirmation is on its way to {email}.",
       reference: "Ref",
-      another: "Make another reservation",
+      kicker: "Reservation confirmed",
+      close: "Close",
     },
   },
   footer: {
